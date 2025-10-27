@@ -19,8 +19,8 @@ Includes **Signals**, **Zoneless mode**, **Tailwind CSS**, and **AI tools** like
 ## 🏗️ Setup
 
 ```bash
-git clone https://github.com/sahitya-c/ngnova.git
-cd ngnova
+git clone https://github.com/SahityaChaganti/ng-nova.git
+cd ng-nova
 npm install
 npm start
 ```
